@@ -1,4 +1,4 @@
-# Hi there, I'm [Joep!](https://github.com/GamerJoep) 👋
+# Hi there, I'm [TGamings!](https://github.com/TGamings) 👋
 
 **Languages and Tools:**  
 
@@ -11,15 +11,15 @@
 
 
 ### 
-<a href="https://github.com/GamerJoep">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GamerJoep&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="GatitoUwU's Github Stats" />
+<a href="https://github.com/TGamings">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TGamings&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="TGamings's Github Stats" />
   
 </a>
 
 ###
 
-<a href="https://github.com/GamerJoep">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GamerJoep&layout=compact&theme=nord" />
+<a href="https://github.com/TGamings">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TGamings&layout=compact&theme=nord" />
 </a>
 
 
