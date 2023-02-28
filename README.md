@@ -1,4 +1,4 @@
-# Hi there, I'm [TGamings](https://github.com/TGamings) 👋
+# Hello there, I'm [TGamings](https://github.com/TGamings) 👋
 
 **Languages and Tools:**  
 
