@@ -13,7 +13,6 @@
 <code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="30" src="https://hazelcast.com/brand-assets/hzc-assets/preview-stacked-black.png">
 
 ### 
 <a href="https://github.com/TGamings">
