@@ -2,7 +2,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://i0.wp.com/songbaze.com.ng/wp-content/uploads/2016/02/java-runtime-environment-11-535x535.png"></code>
+<code><img height="30" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -17,7 +17,6 @@
 ### 
 <a href="https://github.com/TGamings">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TGamings&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="TGamings's Github Stats" />
-  
 </a>
 
 ###
