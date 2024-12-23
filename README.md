@@ -1,4 +1,4 @@
-# Hello there, I'm [TGamings](https://github.com/tobiasheimboeck) 👋
+# Hello there, I'm [Tobias](https://github.com/tobiasheimboeck) 👋
 
 **Languages and Tools:**  
 
@@ -16,8 +16,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
 
 ### 
-<a href="https://github.com/TGamings">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TGamings&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="TGamings's Github Stats" />
+<a href="https://github.com/tobiasheimboeck">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tobiasheimboeck&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="Tobias Github Stats" />
 </a>
 
 ###
